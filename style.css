@@ -29,7 +29,7 @@ header {
     }
     100% {
         font-size: 100px;
-        background-image: url("silly.jpg");
+        background-image: url("gif.gif");
     }
 }
 header:hover {
